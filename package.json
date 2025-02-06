@@ -1,0 +1,22 @@
+{
+  "name": "ramya-convertor",
+  "version": "1.0.0",
+  "description": "Indian rupees to US Dollars convertor",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramya-Vengaladasu/Ramya-Convertor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramya-Vengaladasu/Ramya-Convertor/issues"
+  },
+  "homepage": "https://github.com/Ramya-Vengaladasu/Ramya-Convertor#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
